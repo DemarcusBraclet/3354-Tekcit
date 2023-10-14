@@ -1,0 +1,29 @@
+What we will be doing:
+❖ Our Team will be creating a ticketing software website for the fictitious company named
+Tekcit.com. Tekcit.com needs a website that:
+➢ 1. Stores user login information into the database,
+■ 1.1 The ability to login using google, facebook, and outlook
+■ 1.2 The ability to login using their own created credentials on the website
+➢ 2. Keep track of the most popular tickets to display them on the homepage as
+“trending”
+■ 2.1 The ability to search for certain products (search bar)
+■ 2.2 Have categories to search by
+■ 2.3 Have a category feature, such as low-high price, high-low price,
+recently purchased etc.
+■ 2.4 On home screen display items that the user has recently clicked on
+➢ 3. Secure checkout software to ensure no information is/can be stolen from the
+user
+■ 3.1 Pay with Credit Card
+■ 3.2 Pay with Paypal (and other online payment methods)
+➢ 4. Encryption, all logins from the user and data given to use from the user must
+be encrypted
+■ 4.1 Use the latest encryption for our website
+■ 4.2 SSL certificate, the website is secure and there are no warnings on
+the website when opened through Google
+■ 4.3 Give the user the ability to save data such as email, address, phone
+number, and credit card
+➢ 5. Shopping Cart, which would include
+■ 5.1 Checkout
+■ 5.2 Add an item
+■ 5.3 Delete an item
+■ 5.4 Save an item for later
